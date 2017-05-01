@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+af55a8f953e5642984e986f4a71a54ca CMakeFiles/cs4398_test.bin
+e08344215ef7e9fbb95f24cf72c72cb6 CMakeFiles/cs4398_test.hex

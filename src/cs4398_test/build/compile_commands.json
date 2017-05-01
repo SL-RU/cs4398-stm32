@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/dma.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/dma.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/dma.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/gpio.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/i2c.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2c.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2c.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/i2s.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2s.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2s.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/main.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/main.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/main.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/printf.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/printf.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/printf.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/stm32f4xx_hal_msp.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_hal_msp.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_hal_msp.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/stm32f4xx_it.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_it.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_it.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/system_stm32f4xx.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/system_stm32f4xx.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/system_stm32f4xx.c"
+},
+{
+  "directory": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/build",
+  "command": "/usr/bin/arm-none-eabi-gcc  -DIS_STM32=1 -DSTM32F437xx -DUSE_HAL_DRIVER -D__packed=\"__attribute__((__packed__))\" -D__weak=\"__attribute__((weak))\" -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/CMSIS/Include -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Inc -I/mnt/doc/prj/boards/cs4398/src/cs4398_test/Inc   -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -O0 -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2    -o CMakeFiles/cs4398_test.elf.dir/Src/usart.c.obj   -c /mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/usart.c",
+  "file": "/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/usart.c"
+}
+]

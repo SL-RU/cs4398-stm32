@@ -1,0 +1,5 @@
+/mnt/doc/prj/boards/cs4398/src/cs4398_test/build/CMakeFiles/rebuild_cache.dir
+/mnt/doc/prj/boards/cs4398/src/cs4398_test/build/CMakeFiles/cs4398_test.elf.dir
+/mnt/doc/prj/boards/cs4398/src/cs4398_test/build/CMakeFiles/edit_cache.dir
+/mnt/doc/prj/boards/cs4398/src/cs4398_test/build/CMakeFiles/cs4398_test.hex.dir
+/mnt/doc/prj/boards/cs4398/src/cs4398_test/build/CMakeFiles/cs4398_test.bin.dir
