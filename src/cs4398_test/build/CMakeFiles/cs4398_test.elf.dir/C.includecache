@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -360,147 +360,153 @@ stm32f4xx_hal.h
 main.h
 ../Inc/main.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/dma.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/dma.c
 dma.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/dma.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/dma.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.c
 gpio.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2c.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/i2c.c
 i2c.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2c.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/i2c.h
 gpio.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2s.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/i2s.c
 i2s.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2s.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/i2s.h
 gpio.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.h
 dma.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/dma.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/dma.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/main.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/main.c
 main.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/main.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/main.h
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx_hal.h
 dma.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/dma.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/dma.h
 i2c.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2c.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/i2c.h
 i2s.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/i2s.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/i2s.h
 usart.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/usart.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/usart.h
 gpio.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.h
+gpio.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.h
+memory.h
+-
 math.h
 -
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/printf.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/printf.c
 stdio.h
 -
 usart.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/usart.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/usart.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_hal_msp.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx_hal_msp.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx_hal.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_it.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx_it.c
 stm32f4xx_hal.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_hal.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx_hal.h
 stm32f4xx.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx.h
 stm32f4xx_it.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx_it.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx_it.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/system_stm32f4xx.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/system_stm32f4xx.c
 stm32f4xx.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/stm32f4xx.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/stm32f4xx.h
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/usart.c
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/usart.c
 usart.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/usart.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/usart.h
 gpio.h
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/Src/gpio.h
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/Src/gpio.h
+
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/vs1053/vs1053.c
 

@@ -38,7 +38,8 @@
 #include "i2s.h"
 #include "usart.h"
 #include "gpio.h"
-
+#include "gpio.h"
+#include <memory.h>
 /* USER CODE BEGIN Includes */
 #include <math.h>
 

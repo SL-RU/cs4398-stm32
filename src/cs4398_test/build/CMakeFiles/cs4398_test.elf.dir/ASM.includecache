@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,5 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/mnt/doc/prj/boards/cs4398/src/cs4398_test/startup/startup_stm32f437xx.s
+/home/lyra/prj/cs4398-stm32/src/cs4398_test/startup/startup_stm32f437xx.s
 
